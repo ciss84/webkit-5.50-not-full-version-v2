@@ -187,7 +187,6 @@ var xhr_sync_log = function(str) {
     "cpuset_setaffinity": 488,
     "openat": 499,
     "pselect": 522,
-    
     "regmgr_call": 532,
     "jitshm_create": 533,
     "jitshm_alias": 534,
